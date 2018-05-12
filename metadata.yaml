@@ -1,0 +1,31 @@
+_repo: Campaigning-with-Crook-and-Stories-of-Army-Life_37480
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37480-h/images/cover_480x640.jpg
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2011-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37480'
+  lccn: 02017397
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Cavalry, 5th'
+- !lcc 'E011'
+- !lcsh 'Crook, George, 1829-1890'
+- !lcsh 'Indians of North America -- Wars -- 1866-1895'
+tableOfContents: Campaigning with Crook -- Captain Santa Claus -- The mystery of 'Mahbin
+  Mill -- Plodder's promotion.
+title: Campaigning with Crook, and Stories of Army Life
+url: http://www.gutenberg.org/ebooks/37480
